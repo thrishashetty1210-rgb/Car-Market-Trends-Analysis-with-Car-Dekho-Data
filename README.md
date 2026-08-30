@@ -1,6 +1,5 @@
 # Car-Market-Trends-Analysis-with-Car-Dekho-Data
 
-# Car Market Trends Analysis Using Car Dekho Dataset
 
 ##  Project Overview
 
